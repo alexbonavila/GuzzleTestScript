@@ -1,0 +1,12 @@
+{
+    "name": "abona/script-trafic-test-guzzle",
+    "authors": [
+        {
+            "name": "Alex Bonavila",
+            "email": "alexbonavila@iesebre.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    }
+}
